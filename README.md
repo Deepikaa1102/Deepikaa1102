@@ -7,7 +7,7 @@
 
 - 📫 Reach me at: **prasannadeepika83@gmail.com**
 
-- 📄 Check out my resume: [Click here](https://drive.google.com/file/d/1SEK73w7xayOz7CMzVIA_BoR52y8P9xqz/view?usp=sharing)
+- 📄 Check out my resume: [Click here](https://drive.google.com/file/d/1QPgwPYgreyjgm5EJbScFiAo-lDpa24I2/view?usp=sharing)
 
 ---
 
