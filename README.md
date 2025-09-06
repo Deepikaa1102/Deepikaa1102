@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepika R P</h1>
 <h3 align="center">A passionate frontend developer who’s also exploring backend projects</h3>
 
-- 🌱 I’m currently learning **Java** and **UI/UX using Figma**
+- 🌱 I’m currently learning *Java* and *UI/UX using Figma*
 
-- 💬 Ask me about **Java, DSA, HTML, CSS**
+- 💬 Ask me about *Java, DSA, HTML, CSS*
 
-- 📫 Reach me at: **prasannadeepika83@gmail.com**
+- 📫 Reach me at: *prasannadeepika83@gmail.com*
 
 - 📄 Check out my resume: [Click here](https://drive.google.com/file/d/1tVJb8RGB-yz-gLyj9NqCPJUBNaOzCY2Z/view?usp=sharing)
 
